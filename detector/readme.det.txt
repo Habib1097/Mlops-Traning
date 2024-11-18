@@ -1,0 +1,1 @@
+new detectors for dev 
